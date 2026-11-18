@@ -1,0 +1,55 @@
+FLORES | INGENIERÍA Y CONSTRUCCIÓN
+WEB PARA EL SECTOR PRIVADO
+
+CONTENIDO
+index.html: inicio
+acabados.html: acabados de obra
+remodelaciones.html: remodelaciones
+construccion.html: construcción y ampliaciones
+diseno.html: diseño y planos
+contacto.html: contacto y consulta por WhatsApp
+styles.css: diseño adaptable a escritorio, tablet y celular
+script.js: menú móvil y preparación del mensaje de WhatsApp
+assets/: isotipo original, favicon e imágenes incluidas
+
+PARA REVISAR EN TU COMPUTADORA
+Extrae el ZIP y abre index.html en tu navegador. Mantén todos los archivos
+y la carpeta assets juntos. No necesita instalación ni compilación.
+
+PARA PUBLICAR EN GITHUB PAGES
+1. Crea un repositorio NUEVO, por ejemplo flores-sector-privado.
+   No reemplaces los archivos del repositorio de la web para el Estado.
+2. Extrae el ZIP. Sube su CONTENIDO al nivel principal del repositorio:
+   index.html, las demás páginas, styles.css, script.js y la carpeta assets.
+   No subas solamente el ZIP ni dejes index.html dentro de otra carpeta.
+3. Guarda los archivos en la rama principal del repositorio.
+4. Activa GitHub Pages para publicar desde la rama principal y su carpeta raíz.
+5. Abre el enlace que GitHub indique cuando termine la publicación.
+
+DATOS
+WhatsApp: +51 920 555 433
+Correo: migoreslavconstructionsac@gmail.com
+Razón social: MIGORESLAV CONSTRUCTION S.A.C.
+RUC: 20610778942
+Cobertura: Lima Metropolitana
+Garantía: 1 año en todos los trabajos
+
+El formulario prepara el mensaje en WhatsApp; no envía mensajes por sí solo,
+no almacena consultas y no necesita servidor. El visitante confirma el envío.
+Los importes mínimos y porcentajes de pago no aparecen en la web.
+
+IMÁGENES
+El isotipo y el favicon se recuperaron de la web original de FLORES.
+Las fotografías son referenciales de Unsplash, descargadas para evitar
+que el funcionamiento del sitio dependa de enlaces a imágenes externas.
+No se presentan como obras ejecutadas por la empresa.
+Fuentes de las fotografías:
+https://images.unsplash.com/photo-1600210492486-724fe5c67fb0
+https://images.unsplash.com/photo-1556912172-45b7abe8b7e1
+https://images.unsplash.com/photo-1486406146926-c627a92ad1ab
+https://images.unsplash.com/photo-1503387762-592deb58ef4e
+
+VERIFICACIÓN
+Revisión visual de portada y contacto en navegador de escritorio.
+Comprobación de referencias locales de las seis páginas y sintaxis JavaScript.
+Estilos adaptativos incluidos; no se realizó una prueba en dispositivo físico.
