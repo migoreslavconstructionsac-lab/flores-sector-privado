@@ -1,0 +1,58 @@
+FLORES | INGENIERÍA Y CONSTRUCCIÓN — SECTOR PRIVADO
+ACTUALIZACIÓN DEL SITIO: 18/11/2026
+
+ESTRUCTURA DEFINITIVA
+- index.html: portada, dos servicios, siete especialidades y modalidades.
+- integrales.html: acabados integrales de proyectos multifamiliares.
+- partidas.html: ejecución de partidas especializadas.
+- especialidades.html: siete especialidades de acabados.
+- modalidades.html: mano de obra especializada y ejecución a todo costo.
+- contacto.html: formulario de consulta por WhatsApp.
+- acabados.html, remodelaciones.html, construccion.html, diseno.html:
+  páginas de redirección para evitar mostrar contenido antiguo tras la subida.
+- styles.css, script.js, assets/: estilo, navegación, WhatsApp y fotos locales.
+
+CÓMO ACTUALIZAR EL REPOSITORIO EXISTENTE
+1. Extrae este ZIP en tu computadora.
+2. Entra a https://github.com/migoreslavconstructionsac-lab/flores-sector-privado
+3. En la rama main, usa Add file > Upload files.
+4. Arrastra TODOS los archivos y la carpeta assets al repositorio.
+5. Confirma la sustitución de los archivos existentes y haz Commit changes.
+6. NO elimines el repositorio ni modifiques GitHub Pages; ya está activado.
+7. Recarga https://migoreslavconstructionsac-lab.github.io/flores-sector-privado/ con Ctrl+F5.
+Nota: el ZIP no se sube directamente; se suben los archivos extraídos.
+
+IDENTIDAD Y DATOS
+Marca: FLORES | Ingeniería y Construcción
+Razón social: MIGORESLAV CONSTRUCTION S.A.C.
+RUC: 20610778942
+WhatsApp: +51 920 555 433
+Correo: migoreslavconstructionsac@gmail.com
+Cobertura: Lima Metropolitana, Perú
+
+IMÁGENES Y TRANSPARENCIA
+- Isotipo y favicon reutilizados de la web original FLORES aportada por el usuario.
+- Fotografías locales reales licenciadas en Unsplash, heredadas del sitio anterior:
+  assets/interior.jpg (https://images.unsplash.com/photo-1600210492486-724fe5c67fb0)
+  assets/cocina.jpg (https://images.unsplash.com/photo-1556912172-45b7abe8b7e1)
+  assets/diseno.jpg (https://images.unsplash.com/photo-1503387762-592deb58ef4e)
+- Fotos de especialidades enlazadas directamente a Pexels (externas), con licencia de uso comercial.
+  Albañilería: https://www.pexels.com/photo/a-construction-worker-working-on-the-wall-of-a-house-5493658/
+  Pisos: https://www.pexels.com/photo/construction-worker-laying-tile-in-renovation-project-29181494/
+  Drywall: https://www.pexels.com/photo/a-man-fixing-the-wall-4981812/
+  Instalaciones: https://www.pexels.com/photo/a-man-is-working-on-an-electrical-panel-27928761/
+  Ventanas: https://www.pexels.com/photo/unrecognizable-workman-installing-window-in-new-apartment-5691521/
+  Áreas comunes: https://www.pexels.com/photo/interior-of-an-entrance-hall-of-a-modern-building-7722148/
+  Licencia: https://www.pexels.com/license/ | https://unsplash.com/license
+- Las imágenes son referenciales; ninguna se presenta como obra propia de FLORES.
+- Las imágenes de Pexels necesitan conexión a internet; en caso de error usan una foto local de respaldo.
+- Se priorizaron fotografías reales: no se emplearon imágenes generadas por IA.
+
+NOTAS IMPORTANTES
+- La obra negra y la obra gris se definen según las condiciones acordadas con el cliente.
+- La cotización define alcance, exclusiones y responsabilidades de materiales/equipos.
+- Trabajos especializados sujetos a planos, profesionales responsables y normativa aplicable.
+- La garantía comercial de 1 año se detalla contractualmente sin excluir la garantía legal.
+- El formulario abre WhatsApp; no envía ni almacena información del cliente.
+- Los archivos anteriores siguen teniendo URL, pero redirigen a servicios nuevos.
+- No depende de backend ni de proceso de compilación.
